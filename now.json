@@ -5,9 +5,3 @@
     { "src": "package.json", "use": "@now/static-build" }
   ]
 }
-  ],
-  "routes": [
-    { "src": "/_nuxt/.+", "headers": { "cache-control": "s-maxage=31536000" } },
-    { "src": "/(.*)", "dest": "/" }
-  ]
-}
