@@ -2,11 +2,9 @@
   "version": 2,
   "name": "nuxt-app",
   "builds": [
-    {
-      "src": "nuxt.config.js",
-      "use": "@nuxtjs/now-builder",
-      "config": {}
-    }
+    { "src": "package.json", "use": "@now/static-build" }
+  ]
+}
   ],
   "routes": [
     { "src": "/_nuxt/.+", "headers": { "cache-control": "s-maxage=31536000" } },
