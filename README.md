@@ -1,5 +1,7 @@
 # nuxt-app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Developerayo/nuxtjs-app-to-now.svg)](https://greenkeeper.io/)
+
 > 
 
 ## Build Setup
