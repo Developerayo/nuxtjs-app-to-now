@@ -30,7 +30,7 @@ We also need to include a script in `package.json` named `"now-build"` that spec
 {
     "scripts": {
       ...
-      "build": "vue-cli-service build",
+      "build": "nuxt build",
       "now-build": "nuxt build --spa"
     },
 }
