@@ -1,5 +1,7 @@
 # Deploying a Statically Generated Nuxt.js app with Now .
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Developerayo/nuxtjs-app-to-now.svg)](https://greenkeeper.io/)
+
 > 
 
 ### Deploy with Now
